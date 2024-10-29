@@ -1,0 +1,9 @@
+streamlit
+sqlite3
+Pillow
+google-generativeai
+wikipedia-api
+re
+gtts
+googletrans
+SpeechRecognition
