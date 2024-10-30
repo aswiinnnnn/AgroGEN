@@ -1,3 +1,0 @@
-wikipedia-api
-streamlit
-google.generativeai
